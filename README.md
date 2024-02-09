@@ -56,4 +56,4 @@ Decrypted text: hello
 - Consider adding an option to specify the alphabet size (for non-standard alphabets).
 - Implement encryption/decryption for other character sets, including numbers and symbols.
 
-### This README.MD file was created using generative text based in GEMINI by Google.
+### This README.MD file was created using generative text based *GEMINI* by Google.
